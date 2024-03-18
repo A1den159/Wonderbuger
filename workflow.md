@@ -1,0 +1,1 @@
+a better workflow could have prevented the merge conflicts in the first place by ensuring that sheree  fetched the latest commit on the main branch after i merged my branch with the main so that she would've had an updated version of code and it would've let her put her line of code on a serpate line
